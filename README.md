@@ -1,5 +1,4 @@
 # Average_Num
-Abdelrahman and anton 
-
-
-thba7000000
+Abdelrahman and anton
+code to find the average sum of numbers 
+python and c++
